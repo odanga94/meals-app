@@ -1,0 +1,1 @@
+# A meals app that organizes different cuisines, complete with React Navigation, React Hooks and Redux State Management.

@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "meals-app",
-    "slug": "meals-app",
+    "slug": "MealsApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
